@@ -67,3 +67,4 @@ console.log(id) // '1fd3234'
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/cooking-with-redux'>Cooking With Redux</a> on Learn.co and start learning to code for free.</p>
 
+<p data-visibility='hidden'>PHRG Redux Put It Together</p>
